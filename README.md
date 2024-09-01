@@ -6,4 +6,4 @@ Use Lighthouse to improve the Accessibility rating as well as reviewing the HTML
 
 Enable GitHub pages to do so.
 
-Instructions are in the the PDF in the docs folder.
+Instructions are in the [Wiki](wiki/01.-A11Y-and-Lighthouse).
