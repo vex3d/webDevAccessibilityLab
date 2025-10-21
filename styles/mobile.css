@@ -26,6 +26,11 @@ header h1 {
   margin: 0;
 }
 
+header h1 a {
+  color: #fff;
+  text-decoration: none;
+}
+
 nav ul {
   list-style: none;
   padding-left: 0;
@@ -71,4 +76,16 @@ footer {
   font-size: 0.8em;
   text-align: center;
   font-style: italic;
+}
+a:link{
+  color: #E5EBFF;
+  text-decoration: none;
+}
+a:visited{
+  color:#E5EBFF;
+  text-decoration: none;
+}
+a:hover{
+  color: #E5EBFF;
+  text-decoration: underline;
 }
